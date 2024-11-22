@@ -2,11 +2,15 @@ FRONT END - GLOBAL SOLUTION
 
 Desenvolvemos uma interface para supervisionar e administrar o processo de recarga de veículos elétricos. A aplicação possibilita aos usuários monitorar o status das estações em tempo real, consultar a disponibilidade e ajustar as preferências de carregamento conforme suas necessidades.
 
-Funcionalidades
+Algumas funcionalidades:
+
 Detalhes das estações
+
 Estações em uso identificadas pelo usuário
-Disponibilidade das estações.
-Processo da recarga.
+
+Disponibilidade das estações
+
+Processo da recarga
 
 Tecnologias Utilizadas
 React JS (No Front End)
