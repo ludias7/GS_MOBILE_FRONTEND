@@ -13,17 +13,23 @@ Disponibilidade das estações
 Processo da recarga
 
 Tecnologias Utilizadas
+
 React JS (No Front End)
 
 Como Rodar o Projeto
+
 Clone o repositório:
+
 git clone https://github.com/ludias7/GS_MOBILE_FRONTEND.git
 
 Instale as dependências:
+
 npm install
 
 Inicie o backend (no outro repositório anexado):
+
 node server.js
 
 Inicie o projeto:
+
 npm start
